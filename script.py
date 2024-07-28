@@ -4,7 +4,7 @@ import os
 
 
 client = OpenAI()
-filename = "output.csv"
+filename = "jobs.csv"
 
 with open(filename, mode='r') as file:
     csv_reader = csv.DictReader(file, delimiter='|')
