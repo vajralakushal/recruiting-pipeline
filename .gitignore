@@ -1,1 +1,8 @@
 .env
+.history/
+Meta-/
+csv-creator.py
+misc.txt
+output.csv
+resume.txt
+desktop.ini
